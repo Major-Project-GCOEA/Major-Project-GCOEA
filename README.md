@@ -2,7 +2,7 @@
 
 <div align="center">
     
-<h1>Welcome back to Group of students who convert their ideas into reality!</h1>
+<h1>Welcome to Group of students who convert their ideas into reality!</h1>
 
 <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
 
